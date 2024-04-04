@@ -1,2 +1,2 @@
 # python-reverse-shell
-reverse shell made with python
+(kinda)reverse shell made with python
